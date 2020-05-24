@@ -11,3 +11,9 @@ This app is the redesign of an already made app by me which is also available on
 
 *Packages used*
 - react-native-progress
+
+## How to Run
+1. Clone the project using `git clone <github link>`
+2. `cd` into the project directory.
+3. Run `npm install` in the directory.
+4. Run `react-native run-android` if you have an android mobile else run `react-native run-ios`.
